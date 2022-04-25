@@ -100,6 +100,7 @@ set(srv_files
   "srv/DeleteRobotStateFromWarehouse.srv"
   "srv/ChangeControlDimensions.srv"
   "srv/ChangeDriftDimensions.srv"
+  "srv/ChangeJointLimits.srv"
 )
 
 set(action_files
